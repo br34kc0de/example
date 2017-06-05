@@ -2,6 +2,6 @@ int main()
 {
     char seg[42];
 
-    seg[43] = 'a';
+    if (seg[42] == NULL);
     return (0);
 }
