@@ -1,7 +1,7 @@
 int main()
 {
-    char 42[42];
+    char seg[42];
 
-    42[0] = 'a';
+    seg[0] = 'a';
     return (0);
 }
